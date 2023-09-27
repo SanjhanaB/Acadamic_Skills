@@ -1,8 +1,11 @@
-# The following papers are pivotal to out knowledge
-## MCC Van Dyke et al., 2019
-## JT Harvey, Applied Ergonomics, 2002
-## DW Ziegler et al., 2005
+# Part 1
 
+##  The following papers are pivotal to out knowledge
+### MCC Van Dyke et al., 2019
+### JT Harvey, Applied Ergonomics, 2002
+### DW Ziegler et al., 2005
+
+# Part 2
 ![image](https://github.com/SanjhanaB/Acadamic_Skills/assets/146237504/d6c37dfc-d67e-4f2d-99bc-2ae61ee6252e)
 ![image](https://github.com/SanjhanaB/Acadamic_Skills/assets/146237504/807ba27e-5341-4415-855d-724a91305e57)
 
